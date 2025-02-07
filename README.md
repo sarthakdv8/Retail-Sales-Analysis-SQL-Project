@@ -23,8 +23,8 @@ The dataset contains transaction records of a retail store, including:
   COGS                   Cost of Goods Sold
   Total_Sale	            Total revenue per order
 
-  | Left Align | Center Align | Right Align |
-|:----------|:-----------:|-----------:|
-| Text 1    | Text 2      | Text 3      |
-| More      | Data        | Here        |
+  | ColumnName | Description |
+|:----------|:-----------:|
+| Text 1    | Text 2      | 
+| More      | Data        | 
 
