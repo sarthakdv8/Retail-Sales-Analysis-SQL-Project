@@ -27,4 +27,13 @@ The dataset contains transaction records of a retail store, including:
 |:----------|:-----------:|
 | Transaction_ID	     |  Unique transaction identifier     | 
 | Sale_Date      |  Date of transaction       | 
+| Sale_Time	     |  Time of transaction     | 
+| Customer_Id     |  Unique Customer identifier       | 
+| Gender	     |  Male Or Female     | 
+| Age      |  Age of customer       | 
+| Category	     |  Product Category     | 
+| Quantity     |  Number Of Units Sold       | 
+| Price_Per_Unit	     |  Selling Price of a Single Unit     | 
+| COGS      |  Cost of Goods Sold       | 
+| Total_Sale      |  Total revenue per order       |
 
