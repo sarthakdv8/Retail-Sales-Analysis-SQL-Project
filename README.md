@@ -49,7 +49,7 @@ The dataset contains transaction records of a retail store, including:
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
-### Connect with me on these platforms:-
+#### Connect with me on these platforms:-
 
 Gmail : sarthakdv8@gmail.com
 
