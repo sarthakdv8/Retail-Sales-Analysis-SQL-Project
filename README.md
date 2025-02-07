@@ -25,6 +25,6 @@ The dataset contains transaction records of a retail store, including:
 
   | ColumnName | Description |
 |:----------|:-----------:|
-| Text 1    | Text 2      | 
-| More      | Data        | 
+| Transaction_ID	     |  Unique transaction identifier     | 
+| Sale_Date      |  Date of transaction       | 
 
